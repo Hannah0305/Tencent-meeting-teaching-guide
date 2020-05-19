@@ -1,2 +1,11 @@
-# Tencent-meeting-teaching-guide
-腾讯会议教学指南
+# 腾讯会议教学指南
+
+#关于项目
+
+本项目是技术写作工作坊的课程实践作业
+
+##小组成员
+
+-member1
+-member2
+-member3
